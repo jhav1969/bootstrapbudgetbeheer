@@ -1,0 +1,85 @@
+
+body {
+  margin: 0;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ddd;
+}
+
+header{ 
+  background-image: url(../img/laptop-593673.jpg);
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+  height: 20vh;
+  background-position: center center;
+
+
+
+} 
+footer{ 
+background-color: #ddd;
+
+
+} 
+
+
+h1,h2,h3 {
+  padding: 16px;
+  background-color:  rgb(0, 159, 227);
+  font-weight: bold;
+  }
+
+ .doen { 
+  background-color: #BCE4FA;
+  text-align: left;
+  padding: 2rem;
+
+}
+.zijkant { 
+  height: auto;
+  background-color: #eee;
+  color:black;
+  padding: 2rem;
+}
+
+
+
+.contact { 
+  padding: 2rem;
+  font-weight: bold;
+  font-size: 2rem;
+
+}
+.download { 
+  padding: 2rem;
+  font-weight: bold;
+  font-size: 3rem;
+
+}
+.downloadzijkant{ 
+  background-image: url(../img/pexels-deyvi-romero-89955.jpg);
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+  height: auto;
+  background-position: center center;
+
+
+
+} 
+
+.onder{
+  background-image: url(../img/pexels-deyvi-romero-89955.jpg);
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #464646;
+  height: auto;
+  background-position: center center;
+  padding: 3%;
+  color: white;
+
+}
