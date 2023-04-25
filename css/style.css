@@ -14,9 +14,8 @@ header{
   background-color: #464646;
   height: 20vh;
   background-position: center center;
-
-
-
+  font-weight: bold;
+  font-size: 3rem;
 } 
 footer{ 
 background-color: #ddd;
